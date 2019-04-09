@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "sasd",
+      "description": "s",
+      "id": 1
+    },
+    {
+      "title": "New Stream",
+      "description": "This is a great stream",
+      "id": 2
+    },
+    {
+      "title": "Programaic Navigation",
+      "description": "You should not see this on the form page!!",
+      "userId": "106871971076992645908",
+      "id": 4
+    },
+    {
+      "title": "Me trying to refactor codes",
+      "description": "PATCHING!!",
+      "userId": "106871971076992645908",
+      "id": 5
+    }
+  ]
+}
